@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DianaFeya
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning web development
 
 
 <!---
