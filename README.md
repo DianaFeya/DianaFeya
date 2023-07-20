@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DianaFeya
+- 👋 Hi, I’m @Diana
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 
